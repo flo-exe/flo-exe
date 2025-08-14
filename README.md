@@ -1,10 +1,10 @@
 <!-- just the basics -->
 
-## Hey there, I'm Flo! 👋
+## Hi there, I'm Flo! 👋
 
-- 🌱 Here to work on personal projects as I venture into tech
-- 🖥️ I love building PCs, video games, and designing websites
-- 📚 Currently experimenting with new programming languages!
+- 🌱 Here to work on personal projects and learn new things
+- 🖥️ I love video games, building PCs, and web design
+- 📚 Currently experimenting with new programming languages
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flo-exe&layout=compact&card_width=467)](https://github.com/anuraghazra/github-readme-stats)
