@@ -7,7 +7,7 @@
 - 📚 Currently experimenting with new programming languages
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flo-exe&layout=compact&card_width=467)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flo-exe&card_width=467&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Flo's GitHub stats](https://github-readme-stats.vercel.app/api?username=flo-exe&show_icons=true&theme=merko&hide_title=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
