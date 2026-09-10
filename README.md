@@ -6,7 +6,6 @@
 USER_INFORMATION
 ----------------------------------------------------------------------------------------
 Username: flo-exe
-Languages/tools: Python, JavaScript, SQL, CSS, HTML
 
 ```
 
