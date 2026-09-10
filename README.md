@@ -6,7 +6,6 @@
 USER_INFORMATION
 ----------------------------------------------------------------------------------------
 Username: flo-exe
-OS: Bazzite + Windows 10
 Languages/tools: Python, JavaScript, SQL, CSS, HTML
 
 ```
